@@ -31,16 +31,6 @@ A new website overhaul, a new discord (official)
 
 And a whole team behind it.
 
------------------------------------------------------------------
-# My involvement
-As a programmer I volunteered my time and have been working with the community to try and unravel the mysteries of this coin and its previous developers.
-
-I am currently working to help market this coin by telling the story as we know it. But like all stories, I recommend caution. While I do work with
-"Joe" and others that came to rally behind this coin, I still recommend using caution when buying crypto, no matter the kind of crypto.
-
-I am being transparent here. I do not want to mislead anyone. This coin was burned by a rug-pull and is now community driven, but that does not mean it
-cannot happen again. So when I say, use caution, I do in fact, mean it. 
-
 -------------------------------------------------------------------
 # Rogue Developer
 The rogue developer who tried to rug pull the money has since started from what we can tell, several new coins all using the Anon name with the intent to rug-pull
